@@ -1,9 +1,0 @@
-const Gap = Object.freeze({
-  LINE_TO: 'LINE_TO',
-  MOVE_TO: 'MOVE_TO',
-  RESET_XMIN: 'RESET_XMIN',
-  RESET_YMIN: 'RESET_YMIN',
-  RESET_XMAX: 'RESET_XMAX',
-  RESET_YMAX: 'RESET_YMAX',
-  CORNER: 'CORNER'
-});
